@@ -21,7 +21,17 @@ class PokemonGoApp : Application() {
      *    Hilt 提供的 @AndroidEntryPoint 注解用于提供 Android 类的依赖（Activity、Fragment、View、Service、BroadcastReceiver）等等
      *    Application 使用 @HiltAndroidApp 注解
      */
+
+
+    fun testMethod1(){}
+
     fun testMethod2(){}
 
     fun testMethod3(){}
+
+    fun testMethod4(){}
+
+    fun testMethod5(){}
+
+    fun testMethod6(){}
 }

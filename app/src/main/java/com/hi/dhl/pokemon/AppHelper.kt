@@ -15,16 +15,4 @@ object AppHelper {
     fun init(context: Context) {
         this.mContext = context
     }
-
-    fun testMethod1(){}
-
-    fun testMethod2(){}
-
-    fun testMethod3(){}
-
-    fun testMethod4(){}
-
-    fun testMethod5(){}
-
-    fun testMethod6(){}
 }
