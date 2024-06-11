@@ -22,16 +22,7 @@ class PokemonGoApp : Application() {
      *    Application 使用 @HiltAndroidApp 注解
      */
 
-
-    fun testMethod1(){}
-
-    fun testMethod2(){}
-
-    fun testMethod3(){}
-
-    fun testMethod4(){}
-
-    fun testMethod5(){}
-
-    fun testMethod6(){}
+    fun test(){
+        
+    }
 }
